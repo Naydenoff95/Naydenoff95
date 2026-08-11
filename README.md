@@ -82,7 +82,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/sertificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Naydenoff95/Naydenoff95/refs/heads/main/sertificate.jpg)
+[<img src="/sertificate.jpg" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Naydenoff95/Naydenoff95/refs/heads/main/sertificate.jpg)
 
 <br>
 <br>
